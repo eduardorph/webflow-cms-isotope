@@ -73,4 +73,4 @@ $(document).ready( function() {
         timeout = setTimeout( delayed, threshold );
       };
     }
-}
+});
